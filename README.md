@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about technology and always excited
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, C, C++
+- **Languages:** Python, Java, C
 - **Frameworks & Libraries:** Node.js
 - **Tools & Platforms:** Git, VS Code
 - **Databases:** MySQL
