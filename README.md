@@ -12,28 +12,22 @@
 
 ## GitHub Stats, Trophies and Languages Used
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=vantuyendev&show_icons=true&locale=en&theme=tokyonight&count_private=true"
-        alt="GitHub Stats"
-      />
-    </td>
-   
-  </tr>
-</table>
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=vantuyendev&layout=compact&langs_count=12&card_width=320&theme=highcontrast"
-        alt="Languages used"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vantuyendev&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantuyendev&layout=compact&theme=tokyonight&langs_count=8" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vantuyendev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vantuyendev&theme=tokyonight&margin-w=10&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vantuyendev&color=blueviolet" alt="Profile Views"/>
+</p>
 # Current Project:
 *Updating soon!*
 
