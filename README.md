@@ -1,16 +1,31 @@
-# vantuyendev: Imagine a passionate developer.
+# Hi there 👋, I'm Tuyen!
 
-![Cute Cat](https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif)
+Welcome to my GitHub profile! I'm passionate about technology and always excited to learn new things and take on interesting projects.
 
-## My Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+<br><br>
+---
 
-## GitHub Stats, Trophies and Languages Used
+## 🚀 About Me
+
+- 🔭 I’m currently working on **School**
+- 🌱 I’m currently learning **Coding**
+- 🤔 I’m looking for help with **Code Programing**
+- 📫 How to reach me: **tuongvantuyen2006@gmail.com**
+- ⚡ Fun fact: **Tcon**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Java, C
+- **Frameworks & Libraries:** Node.js
+- **Tools & Platforms:** Git, VS Code
+- **Databases:** MySQL
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vantuyendev&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
@@ -28,11 +43,22 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vantuyendev&color=blueviolet" alt="Profile Views"/>
 </p>
-# Current Project:
-*Updating soon!*
 
-## Contact Me
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuongvantuyen2006@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+---
+
+## 🌐 Connect with Me
+
+- [Facebook]
+- [Twitter]
+- [Youtube]
+- [Personal Website]
+
+---
+
+## 📂 Featured Projects
+
+Here are a few of my favorite projects:
+- Update in the Future XD 
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate on a project. 😊
