@@ -33,8 +33,10 @@ Welcome to my GitHub profile! I'm passionate about technology and always excited
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantuyendev&layout=compact&theme=tokyonight&langs_count=8" width="300" height="260"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vantuyendev&theme=tokyonight" width="400" height="260"/>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=vantuyendev&theme=tokyonight&margin-w=15&margin-h=15" width="100%" />
 </div>
----
+
 
 ## 🌐 Connect with Me
 
