@@ -6,11 +6,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## GitHub Stats, Trophies and Languages Used
 
@@ -22,12 +20,7 @@
         alt="GitHub Stats"
       />
     </td>
-    <td>
-      <img
-        src="https://github-trophies.vercel.app/?username=vantuyendev&theme=onedark&no-frame=false&no-bg=false&margin-w=4"
-        alt="GitHub Trophies"
-      />
-    </td>
+   
   </tr>
 </table>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
