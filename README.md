@@ -27,23 +27,13 @@ Welcome to my GitHub profile! I'm passionate about technology and always excited
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vantuyendev&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantuyendev&layout=compact&theme=tokyonight&langs_count=8" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vantuyendev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vantuyendev&theme=tokyonight&margin-w=10&no-frame=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vantuyendev&color=blueviolet" alt="Profile Views"/>
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vantuyendev&show_icons=true&theme=tokyonight&count_private=true" width="500" height="260"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vantuyendev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="500" height="260"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vantuyendev&layout=compact&theme=tokyonight&langs_count=8" width="400" height="300"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vantuyendev&theme=tokyonight" width="600" height="1000"/>
+</div>
 ---
 
 ## 🌐 Connect with Me
